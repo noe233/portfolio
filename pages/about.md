@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: {{ site.baseurl }}/about
 weight: 3
 ---
 

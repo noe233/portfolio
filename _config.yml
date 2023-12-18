@@ -1,6 +1,6 @@
 ### Site Settings ###
 title               : Danyang Liu
-description         : >-
+description         : 
                     👩‍💻 Software engineer  discovered in the wild. 👾Debugging is the
                     only drama I have for life; my code ensures a daily plot twist.
 baseurl             : "/portfolio"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly

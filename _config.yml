@@ -1,9 +1,8 @@
 ### Site Settings ###
 title               : Danyang Liu
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.!!!!!!!!
+                    👩‍💻 Software engineer  discovered in the wild. 👾Debugging is the
+                    only drama I have for life; my code ensures a daily plot twist.
 baseurl             : "/portfolio"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : noe233/portfolio.github.io   # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU

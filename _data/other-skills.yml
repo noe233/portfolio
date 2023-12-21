@@ -1,7 +1,15 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Figma 
+  percentage: 90
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: Vim
+  percentage: 70
+  color: success
+
+- name: Azure
+  percentage: 70
+  color: success
+
+- name: Docker
+  percentage: 70
   color: success

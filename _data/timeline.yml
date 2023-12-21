@@ -1,13 +1,17 @@
-- title: Student, Swinburne University of Technology
-  from: 2022
-  to: 2023
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Software Developer Intern, ITConnexion
+  from: Jul 2023
+  to: Oct 2023
+  description: •Utilized Figma for designing interactive prototypes
+               •Played a key role in developing a Wound Care Application using the LAMP stack
+               •Successfully integrated an AI model into the application using Fast API
+
+- title: Casual Web Developer, Ropware
+  from: Jun 2022
+  to: Jul 2022
+  description: •Implemented reCAPTCHA v3 in Ropware Stency’s brochure website to mitigate and effectively eliminate bot activities using client-side JavaScript and server side PHP.
 
 - title: Interpreter/Analyst, DMEGC Group
-  from: 2018
-  to: 2019
-  description: Investigate and translate local law documents, regulations, emails, and other communications with departments in Monterey, Mexico, to assist the organisation in building a compliant presence overseas. Liason and translater for client, facilitating communications to factories, labs, manufacturers, and product designers in English or Spanish for clients and prospective clients from overseas.
+  from: Dec 2018
+  to: Jun 2019
+  description: •Investigate and translate local law documents, regulations, emails, and other communications with departments in Monterey, Mexico, to assist the organisation in building a compliant presence overseas.
+               •Liason and translater for client, facilitating communications to factories, labs, manufacturers, and product designers in English or Spanish for clients and prospective clients from overseas.

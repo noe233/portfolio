@@ -1,8 +1,9 @@
 ---
 name: Monopoly Scoreboard
 tools: [C#, XML, WPF]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+image: ../assets/monopoly.png
+description: A simple Monopoly Deal Scoreboard program to keep track of players' scores during the game.
+external_url: https://noe233.github.io/Monopoly-Deal-Scoreboard/
 ---
 
 # The Movies Project

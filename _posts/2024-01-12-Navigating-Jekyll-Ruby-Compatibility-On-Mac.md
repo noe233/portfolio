@@ -2,7 +2,7 @@
 title: Navigating Jekyll and Ruby Compatibility on Mac(M1)
 tags: [Jekyll, Ruby, chruby, gems]
 style: fill
-color: secondary
+color: info
 comments: true
 description: Run Jekyll theme locally in macOS.
 ---
